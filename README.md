@@ -6,7 +6,7 @@ I have attached a jupyter notebook code, with all the code you will need to down
 
 This code gives anywhere between 500 to 5000 tweets depending on how popular the hashatg is.
 
-It will be saved in an CSV file with labels that you defined. 
+It will be saved in an CSV file with labels that you defined, at your C:/Users/"user-name"/ folder.
 
 In the present format, without any edits to the code, it will give you the text of the tweet, along with, time, date, tweeter's follower count, all the hashtags present, location, geo coordinates(if available), type of device used to tweet, retweet count, and favorite count.
 
