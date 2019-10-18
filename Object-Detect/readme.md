@@ -2,7 +2,7 @@
 
 Hi,
 
-The entire detailed step by step procedure is attached in the Documentation word file.
+The entire detailed step by step procedure is attached in the Docs pdf file.
 
 Pre-requisites to install are in the requirements.txt file.
 
