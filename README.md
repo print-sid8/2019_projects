@@ -10,11 +10,4 @@ In the 'Object-Identification' repository, I have added the pre-requisites requi
 
 The documentation with instructions of how to do the project is in the repo.
 
-
-## Project #2 - Twitter API access to download tweets using Hashtags
-
-I have attached a jupyter notebook code, with all the code you will need to download tweets from the official Twitter API.
-
-The instructions and details are in the repo.
-
 ## Thank you for reading!
