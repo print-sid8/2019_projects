@@ -1,21 +1,20 @@
-# Twitter API access to download tweets using Hashtags
+# Welcome to Sid's GitHub
 
-Hi Everyone! 
+Hi Everyone!
+
+Below are some of the codes you will find in my GitHub, and I am new to GitHub, so do let me know if there are any mistakes, or improvements to be done, to my pages.
+
+## Project #1 - Object Identification
+
+In the 'Object-Identification' repository, I have added the pre-requisites required to perform object identifcation and have attached my Python codes for each step of the process.
+
+The documentation with instructions of how to do the project is in the repo.
+
+
+## Project #2 - Twitter API access to download tweets using Hashtags
 
 I have attached a jupyter notebook code, with all the code you will need to download tweets from the official Twitter API.
 
-This code gives anywhere between 500 to 5000 tweets depending on how popular the hashatg is.
-
-It will be saved in an CSV file with labels that you defined, at your C:/Users/"user-name" folder.
-
-In the present format, without any edits to the code, it will give you the text of the tweet, along with, time, date, tweeter's follower count, all the hashtags present, location, geo coordinates(if available), type of device used to tweet, retweet count, and favorite count.
-
-This can be run multiple times in a day, and usually gives tweets ranging from about 3-4 hours prior to the start of your stream, till about 3 days back.
-
-Unfortunately, Twitter's official policy gives only 1% of the actual twitter stream, hence if you run the code twice, almost immediately, you will get the same tweets again.
-
-So, the best way to coved a lot of tweets is to run the code every half hour, or every one hour.
-
-I hope this is useful for anyone looking to gather tweets in an accessible format.
+The instructions and details are in the repo.
 
 ## Thank you for reading!
