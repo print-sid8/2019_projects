@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Twitter Live Map</title>
+
+<!-- COMMENT SYNTAX IN HTML -->
+<!--import css file from leaflet tutorial-->
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css"
+      integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+      crossorigin=""/>
+
+<!--also import javascript-->
+
+    <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"
+      integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
+      crossorigin=""></script>
+  </head>
+  <body>
+<!--in body, we open a map-->
+
+    <h1>Twitter Real Time Sentiment Map</h1>
+    <div id="mapid" style="width:800px; height:480px;"></div>
+
+<!--importing a javascript file to specify what to be shown in the map-->
+
+    <script src="../static/leaf.js"></script>
+  </body>
+</html>
