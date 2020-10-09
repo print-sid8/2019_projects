@@ -1,5 +1,3 @@
-# Welcome to Sid's GitHub
-
 Below are some of the projects in this page.
 
 ## Project #1 - Object Recognition
