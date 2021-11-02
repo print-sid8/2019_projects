@@ -10,10 +10,11 @@ The documentation with instructions of how to run it, is ina pdf file in the rep
 
 ## Project #2 - Real Time Tweet Map
 
-In 	RealTimeTwitterMap repository, I have written a small documentation and instruction to complete this application. It will require the help of Youtube channel 'Code & Dogs' to complete a few critical steps, thank you to him.
+In 	RealTimeTwitterMap repository, I have written a small documentation and step-by-step process to complete this application. It will require the help of the Youtube channel 'Code & Dogs' to complete a few critical steps in this project, thank you to him.
 
-## Project #3 - Near Real Time Twitter Sentiment Graph
+## Project #3 - Real Time Twitter Sentiment Graph
 
-This project if completed will result in a Live Graph that shows the sentiment around the keyword that you provided to it, shown to you in a localhost server. I would like to thank SentDex and his webpage - https://pythonprogramming.net/ for tutorials. I have modified the code to work on the verion of Dash as of 21-10-2019 - 1.4.1 .
+
+This project if completed will result in a Live Graph that shows the sentiment around the keyword that you provided to it, shown to you in a localhost server. I would like to thank SentDex and his webpage - https://pythonprogramming.net/ for tutorials. I have modified the code to work on latest verion of Dash as of 21-10-2019 ie., 1.4.1
 
 ## Thank you for visiting!
